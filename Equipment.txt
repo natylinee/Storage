@@ -1,0 +1,7 @@
+15 oscyloskop pasmoprzenoszenia 20 megaherc -1
+16 oscyloskop pasmoprzenoszenia 1 gigaherc -1
+17 miernik zakres 20 amper -1
+18 miernik zakres 2 amper -1
+19 generator czestotliwosc 10 megaherc 1
+20 generator czestotliwosc 20 megaherc 3
+21 generator czestotliwosc 100 megaherc 4

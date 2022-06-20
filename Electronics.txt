@@ -1,0 +1,6 @@
+9 laptop Lenovo -1
+10 laptop Huawei 2
+11 laptop Dell -1
+12 laptop MacBook -1
+13 laptop Asus -1
+14 laptop Acer -1
