@@ -1,2 +1,1 @@
-# Lekcja-PK4
-&lt;ranges>
+C++ project done for my university assign for the 4th semester. In this project I created my own database in .txt files. When it is working all changes are saved at the end of the program, files are being changed and saved, so they are ready to reuse. This is a program to use by some assistant in a copany to manage assigning items to employees, for example: laptops or smartphones.
